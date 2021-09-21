@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Passionate programmer & a Leader
 - 🔭 Always curious to learn new stuff and am very keen on working in a new and challenging environment. 
 - ⚡ I count with good absorption to new technologies, learning and presenting skills. 
--     In learning you will teach, and in teaching you will learn... 
+<!-------     In learning you will teach, and in teaching you will learn... ---------------->
 ***
 ### Lets connect:
 
