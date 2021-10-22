@@ -12,7 +12,7 @@
 ***
 ### Lets connect:
 
-[![LinkedIn](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-linkedin.svg)](https://www.linkedin.com/in/mohan-ganta/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Insta](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-instagram-old.svg)](https://www.instagram.com/master_mohan____/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-gmail.svg)](mailto:gantamohan.556@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-whatsapp.svg)](https://wa.me/9618850656)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/)]()
+[![LinkedIn](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-linkedin.svg)](https://www.linkedin.com/in/mohan-ganta/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Insta](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-instagram-old.svg)](https://www.instagram.com/_ary_mohan__/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-gmail.svg)](mailto:gantamohan.556@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-whatsapp.svg)](https://wa.me/9618850656)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/)]()
 
 ### Languages:
 [![Python](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-python.svg)](https://www.python.org/)
