@@ -10,18 +10,6 @@
 - ⚡ I count with good absorption to new technologies, learning and presenting skills. 
 <!-------     In learning you will teach, and in teaching you will learn... ---------------->
 ***
-### Lets connect:
-
-[![LinkedIn](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-linkedin.svg)](https://www.linkedin.com/in/mohan-ganta/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Insta](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-instagram-old.svg)](https://www.instagram.com/_ary__mohan__/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-gmail.svg)](mailto:gantamohan.556@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-whatsapp.svg)](https://wa.me/9618850656)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/)]()
-
-### Languages:
-[![Python](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-python.svg)](https://www.python.org/)
-
-***
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohan-Ganta&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Ganta&show_icons=true&theme=radical)
 
 
