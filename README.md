@@ -4,10 +4,26 @@
 ***
 
 
-- 🎓 Computer Science Student @ SWRN.  
-- 👨🏻‍💻 Passionate programmer & a Leader
-- 🔭 Always curious to learn new stuff and am very keen on working in a new and challenging environment. 
-- ⚡ I count with good absorption to new technologies, learning and presenting skills. 
+I am having around 2+ years of IT experience where my Technical skills are :
+Programming and Development:
+Skills in languages like Python, JavaScript, Java, PHP, etc.
+Web Development: HTML, CSS, React, Angular, Vue.js, etc.
+Mobile App Development: iOS, Android, React Native, Flutter, etc.
+Database Management: MySQL, MongoDB, PostgreSQL, etc.
+IT and Networking: System administration, network management, cybersecurity,
+
+Design and Multimedia:
+Graphic Design: Adobe Photoshop, Illustrator, InDesign, etc.
+Video Editing: Adobe Premiere, Final Cut Pro, DaVinci Resolve, etc.
+
+Digital Marketing:
+SEO (Search Engine Optimization): Optimize websites for search engines.
+Social Media Marketing: Promote brands on platforms like Facebook, Instagram, Twitter, etc.
+Content Marketing: Create and distribute valuable content to attract a target audience.
+
+Project Management:
+Agile Methodologies: Experience with Scrum, Kanban, etc.
+Task Management: Using tools like Trello, Asana, Jira, etc .
 <!-------     In learning you will teach, and in teaching you will learn... ---------------->
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Ganta&show_icons=true&theme=radical)
