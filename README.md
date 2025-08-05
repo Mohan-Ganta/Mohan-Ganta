@@ -26,7 +26,6 @@ Agile Methodologies: Experience with Scrum, Kanban, etc. <br/>
 Task Management: Using tools like Trello, Asana, Jira, etc . <br/>
 <!-------     In learning you will teach, and in teaching you will learn... ---------------->
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Ganta&show_icons=true&theme=radical)
 
 
 <!----------------- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-java.svg)](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c-sharp-logo.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Dart](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-dart.svg)](https://dart.dev/guides)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![TypeScript](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-typescript.svg)](https://www.typescriptlang.org/)
